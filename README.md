@@ -39,7 +39,7 @@ li a:hover {
 <meta name="author" content="Jefferson Marques da Silva" />
 
 <meta name="date" content="2020-02-07" />
-<h2># Portfolio de DataScience</h2>
+<h2>Portfolio de DataScience</h2>
 
 
 
