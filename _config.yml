@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+minima:  
   header_pages:
     - readme.md
     - talkingdata.html
