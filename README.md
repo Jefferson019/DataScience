@@ -4,11 +4,12 @@
 
 > Developing new projects always!
 
-
-1. [Curriculo](https://jefferson019.github.io/DataScience/)
-2. Projetos
+1. Projetos
   - [Prevendo Download de APP - Classificação(R)](talkingdata.html)
   - [Concessão de Emprestimo - Classificação(R)](AnaliseCred.html)
+
+2. [Curriculo](Curriculo.pdf)
+
 
 ### Currículo em Power BI
 
