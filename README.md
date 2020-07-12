@@ -6,6 +6,7 @@
 
 
 1. [Curriculo](https://jefferson019.github.io/DataScience/)
+2. Projetos
   - [Prevendo Download de APP - Classificação(R)](talkingdata.html)
   - [Concessão de Emprestimo - Classificação(R)](AnaliseCred.html)
 
