@@ -1,8 +1,5 @@
 
 
-<html>
-
-<head>
 
 <style>
 ul {
@@ -60,9 +57,6 @@ li a:hover {
 
 
 </body>
-
-
-</html>
 
 
 
