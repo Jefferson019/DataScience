@@ -12,8 +12,12 @@
 
 
 ### Currículo em Power BI
+Por conta de licença não conseguir carregar o iframe do painel, mas segue imagens do pbix.
 
-<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiMjEwNjU0OTItZDUxYi00MTM5LWI2YjgtMDg5MDA3Yjk5NDhkIiwidCI6ImUwZTcxZTFkLTRjMDYtNDUwZC05OGFmLWU2ZTNmZjQ3NDcyYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+![image](https://user-images.githubusercontent.com/17418994/116876043-384df300-abf2-11eb-8ba2-30741965bb79.png)
+
+![image](https://user-images.githubusercontent.com/17418994/116875986-28ceaa00-abf2-11eb-96e8-8baf4869738c.png)
+
 
 
 
