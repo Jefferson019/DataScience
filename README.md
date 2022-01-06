@@ -1,27 +1,32 @@
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+=========================
 
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-> The data's is new petrol oil.
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
 
-> Developing new projects always!
+---
+```
 
-1. Projetos
-  - [Prevendo Download de APP - Classificação(R)](talkingdata.html)
-  - [Concessão de Emprestimo - Classificação(R)](AnaliseCred.html)
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
-2. [Curriculo](Curriculo.pdf)
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
-
-### Currículo em Power BI
-Por conta de licença não conseguir carregar o iframe do painel, mas segue imagens do pbix.
-
-![image](https://user-images.githubusercontent.com/17418994/116876043-384df300-abf2-11eb-8ba2-30741965bb79.png)
-
-![image](https://user-images.githubusercontent.com/17418994/116875986-28ceaa00-abf2-11eb-96e8-8baf4869738c.png)
-
-
-
-
-
-
-
-
+---------
+For more details, read the [documentation](http://jekyllrb.com/)
